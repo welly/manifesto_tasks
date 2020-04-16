@@ -20,7 +20,7 @@ An alternative approach was to enable the Layout Builder module and to allow ind
 
 The article node add/edit page looks as follows:
 
-
+![Edit page screencapture](https://raw.githubusercontent.com/welly/manifesto_tasks/master/screenshot-manifesto.ddev.site-2020.04.16-16_46_06.png)
 
 ## Editorial Experience / Permissions
 
